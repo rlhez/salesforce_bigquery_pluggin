@@ -1,0 +1,4 @@
+libgcrypt=1.8.3-r0
+libxslt-dev
+g++
+libstdc++

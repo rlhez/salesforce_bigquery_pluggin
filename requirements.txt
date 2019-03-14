@@ -1,0 +1,4 @@
+simple-salesforce
+google-api-python-client
+oauth2client
+pandas_gbq
